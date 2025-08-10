@@ -1,0 +1,18 @@
+{
+    "fecha-actualizacion": "Datos actualizados al 14-08-2022 01:00:11",
+    "url-server-gis": "https://sit.icl.gob.pe/arcgis/rest/services/",
+    "servicio-catastro": {
+        "linderosLayerId": 40,
+        "construccionLayerId": 41,
+        "jardinLayerId": 46,
+        "veredaLayerId": 47,
+        "bermaLateralLayerId": 48,
+        "bermaCentralLayerId": 49,
+        "areasVerdesLayerId": 52,
+        "sectoresLayerId": 50,
+        "lotesLayerId": 51,
+        "manzanasLayerId": 53,
+        "limiteDistritalLayerId": 54,
+        "nombre": "AGOL_Servicios/SIT_CATASTRO"
+    }
+}
